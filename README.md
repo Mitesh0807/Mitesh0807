@@ -39,7 +39,7 @@
 </tr>
 <tr>
    <td><strong>Tools & technology</strong></td>
-   <td><img height=40 src = "https://skillicons.dev/icons?i=neovim,vscode,postman&theme=dark"></td>
+   <td><img height=40 src = "https://skillicons.dev/icons?i=neovim,vscode,postman,bash,docker&theme=dark"></td>
 </tr>
 </table>
 
